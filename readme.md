@@ -73,5 +73,7 @@ Thanks to [esn303](https://twitter.com/#!/esn303) for creating [ImageResizer.Res
 
 This project is open to collaboration. **Fork. Push. Innovate.**
 
+### Dependency HtmlAgilityPack
+Upgraded HtmlAgilityPack to version 1.4.9 and added nuget package instead of bare DLL.
 
 
